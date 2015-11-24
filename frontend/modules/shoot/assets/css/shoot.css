@@ -1,0 +1,51 @@
+.bookdetail-list
+{
+    
+}
+
+/*
+ * 任务列表相间颜色
+ */
+.bookdetail-list .bgcolor-zebra
+{
+    background-color: rgba(210, 210, 210, 0.35);
+    /*background-color: rgba(236, 12, 12, 0.35);*/
+}
+/**
+ * 任务详细页面样式 
+ */
+.viewdetail-th
+{
+    color: #666666;
+    width: 150px;
+    font-weight: normal;
+    text-align: right;
+    min-width: 73px;
+}
+.viewdetail-th-head
+{
+    color: #000000;
+    width: 150px;
+    text-align: left;
+    font-weight: bold;
+}
+.viewdetail td
+{
+    width: 150px;
+    min-width: 100px;
+}
+
+
+/**
+ * 评价题目样式
+ */
+.appraise-form{}
+
+.appraise-form .radio-group
+{
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}

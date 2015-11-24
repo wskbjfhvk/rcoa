@@ -1,0 +1,51 @@
+.rcoa-icon
+{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.is-me
+{
+    position: absolute;
+}
+/* 照相机 */
+.rcoa-icon-camera
+{
+    background-image: url("imgs/camera.png");
+}
+/* SD 标清 */
+.rcoa-icon-sd
+{
+    background-image: url("imgs/sd.png");
+}
+/* HD 高清 */
+.rcoa-icon-hd
+{
+    background-image: url("imgs/hd.png");
+}
+/* 自己 */
+.rcoa-icon-me
+{
+    background-image: url("imgs/me.png");
+}
+/* 好 */
+.rcoa-icon-good
+{
+    background-image: url("imgs/good.png");
+}
+/* 高兴 */
+.rcoa-icon-happy
+{
+    background-image: url("imgs/happy_24.png");
+}
+/* 失望 */
+.rcoa-icon-disappointed
+{
+    background-image: url("imgs/disappointed_24.png");
+}
+/* 大哭 */
+.rcoa-icon-crying
+{
+    background-image: url("imgs/crying_24.png");
+}
